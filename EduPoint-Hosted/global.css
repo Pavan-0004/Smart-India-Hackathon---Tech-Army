@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ubuntu: Ubuntu;
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-mini: 20px;
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-royalblue: #367cff;
+  --color-black: #000;
+  --color-lightskyblue: #a9c7ff;
+  --color-gray-100: #929292;
+  --dark-03: #777;
+  --color-gray-200: #111;
+  --dark-02: #4a4a4a;
+  --dark-06: #e8e8e8;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+}
